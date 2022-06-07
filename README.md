@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Graph app
 
 This project displays a graph visualization of sample information. Uses React and [React Flow](https://reactflow.dev/)
 
