@@ -19,7 +19,7 @@ const initialNodes = [
     {
         id: '4',
         data: { label: "Register Notifications" },
-        position: { x: 275, y: 200 },
+        position: { x: 150, y: 225 },
     },
     {
         id: '5',
