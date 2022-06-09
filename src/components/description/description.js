@@ -1,4 +1,4 @@
-import './index.css';
+import './description.css';
 
 function Description() {
     const onDragStart = (event, nodeType) => {
@@ -9,7 +9,7 @@ function Description() {
     return <div className="descriptionArea"> 
     <h2>Troubleshoot Flowchart</h2>
     <h4>Updating Edges</h4>
-    Update edges by clicking on the edge and dragging the connection to another node
+    Update edges by clicking on the edge and dragging the connection to another node. Also able to create connections by clicking two endpoints to connect
     <h4>Deleting Elements</h4>
     Delete nodes or connections by selecitng the desired element and pressing the delete key
     <aside>

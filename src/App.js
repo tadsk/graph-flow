@@ -8,11 +8,11 @@ import ReactFlow, {
   useNodesState,
   ReactFlowProvider
 } from 'react-flow-renderer';
-import TextUpdaterNode from './components/TextUpdaterNode';
+import TextUpdaterNode from './components/text-updater-node/TextUpdaterNode';
 import initialNodes from './data/nodes';
 import initialEdges from './data/edges';
-import './components/text-updater-node.css';
-import Description from './description';
+import './components/text-updater-node/text-updater-node.css';
+import Description from './components/description/description';
 import ConnectionLine from './components/ConnectionLine';
 import React, {useState, useRef, useCallback } from 'react';
 
